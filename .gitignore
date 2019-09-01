@@ -1,0 +1,22 @@
+# ignore the complete .gradle folder
+/.gradle
+settings.gradle
+
+# build folders
+/bin
+/build
+/libs
+/logs
+
+# Eclipse
+.project
+.classpath
+.settings
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out
